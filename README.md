@@ -36,7 +36,7 @@ A web-based application for managing patient queues, doctor appointments, and do
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/manish3173/Allo-Health-Clinic-Management-System.git>
    cd clinic-management-system
    ```
 
@@ -115,6 +115,3 @@ A web-based application for managing patient queues, doctor appointments, and do
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Thanks to the contributors and libraries that made this project possible.
