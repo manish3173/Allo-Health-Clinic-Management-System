@@ -111,7 +111,15 @@ A web-based application for managing patient queues, doctor appointments, and do
   npm run test
   ```
 
-## License
+## Contact
+For questions or support, please contact:
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+  
+## Contributing
+Feel free to submit issues and pull requests. Contributions are welcome!
+
+
+## License
+This project is licensed under the MIT License.
 
